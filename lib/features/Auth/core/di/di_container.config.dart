@@ -26,7 +26,6 @@ import '../../Presentation/cubit/auth_cubit.dart' as _i604;
 import 'app_module.dart' as _i460;
 
 extension GetItInjectableX on _i174.GetIt {
-  // initializes the registration of main-scope dependencies inside of GetIt
   _i174.GetIt init({
     String? environment,
     _i526.EnvironmentFilter? environmentFilter,
