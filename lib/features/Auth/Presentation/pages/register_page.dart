@@ -132,7 +132,6 @@ class _RegisterPageState extends State<RegisterPage> {
                         ),
                         const SizedBox(height: 16),
 
-                        // Password field
                         TextFormField(
                           controller: passwordController,
                           obscureText: _obscurePassword,
@@ -168,7 +167,6 @@ class _RegisterPageState extends State<RegisterPage> {
                         ),
                         const SizedBox(height: 28),
 
-                        // Submit button
                         SizedBox(
                           width: double.infinity,
                           height: 52,
