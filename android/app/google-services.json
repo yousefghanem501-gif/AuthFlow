@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "304419306153",
+    "project_id": "zodiac-ed89d",
+    "storage_bucket": "zodiac-ed89d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304419306153:android:a20280a56f0e3b921d07b8",
+        "android_client_info": {
+          "package_name": "com.example.project_10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNq66TUAAyTezwFnyk2_p23tNRA1Rtr4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304419306153:android:626b05994a84a1a71d07b8",
+        "android_client_info": {
+          "package_name": "com.example.project_11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNq66TUAAyTezwFnyk2_p23tNRA1Rtr4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
